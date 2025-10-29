@@ -1,6 +1,5 @@
-# figma-designs
-“UI Design files for Cosmi AI app”
-# 🎨 Cosmi AI Design Files
+# Figma designs
+“UI Design files for the Cosmi AI app”
 
 💡 View the full design on Figma:  
 👉 [Open Figma Prototype](https://www.figma.com/design/5Aa9U5H2MjPvkCkH0Zreua/COSMI---FIGMA-PROJECT?node-id=0-1&t=KXWvURgcQRg50W4P-1)
